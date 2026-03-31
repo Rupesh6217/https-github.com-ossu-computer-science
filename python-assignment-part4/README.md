@@ -32,5 +32,4 @@ The notebook is executed fully so that all outputs and graphs are visible.
 This assignment helped in understanding how data can be analysed, visualized, and used for prediction using basic machine learning techniques.
 
 ## Author
-
-Rohini Patil
+Rupesh Patil
